@@ -1,0 +1,29 @@
+git status
+# Ignore system files and directories
+AppData/
+Cookies/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+OneDrive/
+*.DAT
+*.LOG*
+*.ini
+
+# Ignore typical user files and folders
+.vscode/
+.emulator_console_auth_token
+.gitconfig
+.ipython/
+.keras/
+.matplotlib/
+Downloads/
+Music/
+Pictures/
+Videos/
+git status
